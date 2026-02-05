@@ -1,0 +1,11 @@
+#### Sistema SIMPLE ####
+
+
+Es un generador de presupuestos. Se pueden ingresar los clientes, productos y los medios de pago.
+
+Permite la aplicación de bonificaciones/descuentos por bulto/cantidad y por forma de pago.
+
+Tiene buscador de cliente y de productos.
+
+Dispone de un historial de los presupuestos realizados.
+
